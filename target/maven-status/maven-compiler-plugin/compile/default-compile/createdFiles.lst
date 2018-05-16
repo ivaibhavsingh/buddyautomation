@@ -1,0 +1,9 @@
+databuddy\databuddy\RunSanityTests.class
+databuddy\databuddy\TestClass.class
+utilities\EmailStringBuilder.class
+utilities\AppiumSetup.class
+utilities\JavaMail.class
+utilities\GraphGenerator.class
+functions\DatabuddyFunctions.class
+utilities\AppElements.class
+utilities\DatabaseConnectivity.class

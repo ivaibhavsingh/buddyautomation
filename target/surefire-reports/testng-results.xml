@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="177951" started-at="2018-05-16T06:10:09Z" finished-at="2018-05-16T06:13:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="177951" started-at="2018-05-16T06:10:09Z" finished-at="2018-05-16T06:13:07Z">
+      <class name="databuddy.databuddy.RunSanityTests">
+        <test-method status="PASS" signature="init()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="init" is-config="true" duration-ms="59576" started-at="2018-05-16T11:40:09Z" finished-at="2018-05-16T11:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="login()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="login" duration-ms="34713" started-at="2018-05-16T11:41:08Z" finished-at="2018-05-16T11:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="loginForAuctions()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="loginForAuctions" duration-ms="37728" started-at="2018-05-16T11:41:43Z" finished-at="2018-05-16T11:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForAuctions -->
+        <test-method status="PASS" signature="placeBids()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="placeBids" duration-ms="13400" started-at="2018-05-16T11:42:21Z" finished-at="2018-05-16T11:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeBids -->
+        <test-method status="PASS" signature="placeOldBids()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="placeOldBids" duration-ms="10717" started-at="2018-05-16T11:42:34Z" finished-at="2018-05-16T11:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOldBids -->
+        <test-method status="PASS" signature="inviteFriends()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="inviteFriends" duration-ms="8376" started-at="2018-05-16T11:42:45Z" finished-at="2018-05-16T11:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inviteFriends -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:databuddy.databuddy.RunSanityTests@73f792cf]" name="teardown" is-config="true" duration-ms="13428" started-at="2018-05-16T11:42:53Z" finished-at="2018-05-16T11:43:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- databuddy.databuddy.RunSanityTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
